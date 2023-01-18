@@ -2,7 +2,7 @@
 
 To add this project on your workspace follow the steps: <br><br>
 1-) Download repository <br><br>
-<img src="https://user-images.githubusercontent.com/93250409/196499564-456b9c47-f3d1-4964-b334-86093e24bfd6.png" width="400" />
+<img src="https://user-images.githubusercontent.com/74368389/213269293-3da8b49a-acd6-47e1-8d0c-c9a2faf58fb3.png" width="400" />
 
 
 2-) Extract files in .rar file into your workspace. <br><br>
