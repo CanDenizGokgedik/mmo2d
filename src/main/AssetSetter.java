@@ -7,6 +7,7 @@ import enemy.ENEMY_Wolf;
 import npc.Npc_Abulbul;
 import npc.Npc_Blacksmith;
 import npc.Npc_Merchant;
+import npc.Npc_Warehouseman;
 import object.*;
 
 /**
@@ -228,6 +229,10 @@ public class AssetSetter {
         gp.npc[2] = new Npc_Blacksmith(gp);
         gp.npc[2].worldX = gp.tileSize * 34;
         gp.npc[2].worldY = gp.tileSize * 18;
+
+        gp.npc[3] = new Npc_Warehouseman(gp);
+        gp.npc[3].worldX = gp.tileSize * 34;
+        gp.npc[3].worldY = gp.tileSize * 30;
     }
 
 }
